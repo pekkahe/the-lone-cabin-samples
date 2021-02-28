@@ -1,7 +1,9 @@
 # The Lone Cabin source samples
 The Lone Cabin is a top-down action game made with [Unity](https://unity.com/) where you play as a hiker who finds... a lone cabin in the woods. 
 
-This repository contains a small selection of the game's source code. For more details about the game, please visit https://pekkahellsten.com/.
+This repository contains a small selection of the game's source code. You can download the full playable game from the [latest release](https://github.com/pekkahe/the-lone-cabin-samples/releases/latest).
+
+For more details about the game, please visit https://pekkahellsten.com/.
 
 ## Sample directories
 
