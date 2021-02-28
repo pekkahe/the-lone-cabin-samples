@@ -1,6 +1,8 @@
 # The Lone Cabin source samples
 The Lone Cabin is a top-down action game made with [Unity](https://unity.com/) where you play as a hiker who finds... a lone cabin in the woods. 
 
+For more details about the game, please visit https://pekkahellsten.com/.
+
 ## Sample directories
 
 #### `\ai-behaviours`
